@@ -1,10 +1,9 @@
 {
-  "data":
-          [
-	        {
+  "data": [
+	    	{
 		"id":"1",
 		"reference":"tache1 IP",
-		"description":"description de tache1 IP",
+		"description":"Description de tache1 IP",
 		"date_debut":"2019-01-01",
 		"date_fin_prevu":"2019-01-10",
 		"date_fin_reel":"0000-00-00",
@@ -15,7 +14,7 @@
 		  {
 		   "id":"2",
 		   "reference":"tache2 IP",
-		   "description":"description de tache2 IP",
+		   "description":"Description de tache2 IP",
 		   "date_debut":"2019-01-11",
 	           "date_fin_prevu":"2019-01-18",
 		   "date_fin_reel":"0000-00-00",
@@ -26,7 +25,7 @@
 		  {
 		   "id":"3",
 		   "reference":"tache3 IP",
-		   "description":"description tache3 IP",
+		   "description":"Description tache3 IP",
 		   "date_debut":"2019-01-21",
 		   "date_fin_prevu":"2019-01-28",
 		   "date_fin_reel":"0000-00-00",
@@ -37,7 +36,7 @@
 		  {
 		   "id":"4",
 		   "reference":"tache4 IP",
-		   "description":"description tache4 IP",
+		   "description":"Description tache4 IP",
 		   "date_debut":"2019-01-29",
 		   "date_fin_prevu":"2019-02-08",
 		   "date_fin_reel":"0000-00-00",
@@ -48,7 +47,7 @@
 		  {
 		   "id":"5",
 		   "reference":"tache1 IB",
-		   "description":"description tache1 IB",
+		   "description":"Description tache1 IB",
 		   "date_debut":"2019-02-11",
 		   "date_fin_prevu":"2019-02-22",
 		   "date_fin_reel":"2019-02-22",
@@ -59,7 +58,7 @@
 		 {
 		   "id":"6",
 	           "reference":"tache2 IB",
-		   "description":"description tache2 IB",
+		   "description":"Description tache2 IB",
 		   "date_debut":"2019-02-25",
 	           "date_fin_prevu":"2019-03-08",
 	           "date_fin_reel":"0000-00-00",
@@ -70,7 +69,7 @@
 		 {
 		  "id":"7",
 		  "reference":"tache3 IB",
-	          "description":"description tache3 IB",
+	          "description":"Description tache3 IB",
 		  "date_debut":"2019-03-11",
 	          "date_fin_prevu":"2019-03-22",
 		  "date_fin_reel":"0000-00-00",
