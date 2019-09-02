@@ -1,45 +1,82 @@
 {
   "data":
           [
-	    {
-		"id":1,"reference":"tachev","description":"description de tachev",
-		 "date_debut":"2019-06-11","date_fin_prevu":"2019-06-14","date_fin_reel":null,
-		 "etat":"en attente","prix_heure_tache":150,"backlog":"gestion taches"
+	        {
+		"id":"1",
+		"reference":"tache1 IP",
+		"description":"description de tache1 IP",
+		"date_debut":"2019-01-01",
+		"date_fin_prevu":"2019-01-10",
+		"date_fin_reel":"0000-00-00",
+		"etat":"terminée",
+		"prix_heure_tache":"150",
+		"backlog":"Interface projets"
 		  },
 		  {
-		   "id":2,"reference":"tache1","description":"jkdvoiezhjhvjhy",
-		   "date_debut":"2019-06-11","date_fin_prevu":"2019-06-13","date_fin_reel":null,
-		   "etat":"en attente","prix_heure_tache":150,"backlog":"gestion taches"
+		   "id":"2",
+		   "reference":"tache2 IP",
+		   "description":"description de tache2 IP",
+		   "date_debut":"2019-01-11",
+	           "date_fin_prevu":"2019-01-18",
+		   "date_fin_reel":"0000-00-00",
+		   "etat":"en cours",
+		   "prix_heure_tache":"130",
+	           "backlog":"Interface projets"
 		  },
 		  {
-		   "id":3,"reference":"ali","description":"habjia  jzbizehvezvjpovjerivehrvo",
-		   "date_debut":"2019-06-12","date_fin_prevu":"2019-06-14","date_fin_reel":null,
-		   "etat":"en attente","prix_heure_tache":200,"backlog":"gestion sous taches"
+		   "id":"3",
+		   "reference":"tache3 IP",
+		   "description":"description tache3 IP",
+		   "date_debut":"2019-01-21",
+		   "date_fin_prevu":"2019-01-28",
+		   "date_fin_reel":"0000-00-00",
+		   "etat":"en cours",
+		   "prix_heure_tache":"200",
+		   "backlog":"Interface projets"
 		  },
 		  {
-		   "id":4,"reference":"tache2","description":"jecznivchzivhzeivhezlvihzvmpezivhzepmvz",
-		   "date_debut":"2019-06-05","date_fin_prevu":"2019-06-07","date_fin_reel":null,
-		   "etat":"en attente","prix_heure_tache":150,"backlog":"gestion sous taches"
+		   "id":"4",
+		   "reference":"tache4 IP",
+		   "description":"description tache4 IP",
+		   "date_debut":"2019-01-29",
+		   "date_fin_prevu":"2019-02-08",
+		   "date_fin_reel":"0000-00-00",
+		   "etat":"en attente",
+		   "prix_heure_tache":"200",
+		   "backlog":"Interface projets"
+		  },
+		  {
+		   "id":"5",
+		   "reference":"tache1 IB",
+		   "description":"description tache1 IB",
+		   "date_debut":"2019-02-11",
+		   "date_fin_prevu":"2019-02-22",
+		   "date_fin_reel":"2019-02-22",
+		   "etat":"terminée",
+		   "prix_heure_tache":"150",
+		   "backlog":"Interface backlogs"
 		 },
 		 {
-		   "id":5,"reference":"tache3","description":"vnlezhvnzeilvhzpihvzpevbezkivhzemvphigze",
-		   "date_debut":"2019-06-05","date_fin_prevu":"2019-06-07","date_fin_reel":null,
-		   "etat":"en attente","prix_heure_tache":200,"backlog":"gestion tickets"
+		   "id":"6",
+	           "reference":"tache2 IB",
+		   "description":"description tache2 IB",
+		   "date_debut":"2019-02-25",
+	           "date_fin_prevu":"2019-03-08",
+	           "date_fin_reel":"0000-00-00",
+		   "etat":"en cours",
+	           "prix_heure_tache":"200",
+	           "backlog":"Interface backlogs"
 		 },
 		 {
-		  "id":6,"reference":"ali","description":"klbezlvkiezhbivkhzepvmiezghvpiezvhgezpimvez",
-		  "date_debut":"2019-06-04","date_fin_prevu":"2019-06-12","date_fin_reel":null,
-		  "etat":"en attente","prix_heure_tache":260,"backlog":"gestion sous taches"
-		 },
-		 {
-		  "id":7,"reference":"tache3","description":"erberbebnt'nt'n'n","date_debut":"2019-06-05",
-		  "date_fin_prevu":"2019-06-07","date_fin_reel":null,"etat":"en attente",
-		  "prix_heure_tache":200,"backlog":"gestion tickets"
-		 },
-		 {
-		  "id":8,"reference":"tache2","description":"ghxsthgstystudutgdhgchngjchgtdtystys",
-		  "date_debut":"2019-06-05","date_fin_prevu":"2019-06-07","date_fin_reel":null,
-		  "etat":"en attente","prix_heure_tache":250,"backlog":"gestion taches"
+		  "id":"7",
+		  "reference":"tache3 IB",
+	          "description":"description tache3 IB,
+		  "date_debut":"2019-03-11",
+	          "date_fin_prevu":"2019-03-22",
+		  "date_fin_reel":"0000-00-00",
+		  "etat":"en attente",
+		  "prix_heure_tache":"260",
+	          "backlog":"gestion sous taches"
 		 }
 	 ],
 	"project": 
